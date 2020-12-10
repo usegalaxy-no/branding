@@ -8,7 +8,7 @@ The fonts used in the logos are Verdana Bold and Exo-ExtraLight
 
 Light Background                                   | Dark Background                                            | Flag colors (use only with white background)                                           
 ------------------------------------------         | --------------------------------------------------         | --------------------------------------------------        
-![](galaxy-norway/galaxy-norway.256.png)           | ![](galaxy-norway.inv/galaxy-norway.inv.256.png)           | ![](galaxy-norway.flag/galaxy-norway.flag.256.png)        
+![](galaxy-norway/galaxy-norway.256.png)           | ![](galaxy-norway.inv/galaxy-norway.dark.256.png)           | ![](galaxy-norway.flag/galaxy-norway.flag.256.png)        
 [PNG (Large)](galaxy-norway/galaxy-norway.png)     | [PNG (Large)](galaxy-norway.inv/galaxy-norway.inv.png)     | [PNG (Large)](galaxy-norway.flag/galaxy-norway.flag.png)     
 [PNG 1024px](galaxy-norway/galaxy-norway.1024.png) | [PNG 1024px](galaxy-norway.inv/galaxy-norway.inv.1024.png) | [PNG 1024px](galaxy-norway.flag/galaxy-norway.flag.1024.png)
 [PNG 512px](galaxy-norway/galaxy-norway.512.png)   | [PNG 512px](galaxy-norway.inv/galaxy-norway.inv.512.png)   | [PNG 512px](galaxy-norway.flag/galaxy-norway.flag.512.png)  
@@ -23,7 +23,7 @@ Light Background                                   | Dark Background            
 
 Light Background                                 | Dark Background                                          | Flag colors (use only with white background)                                        
 ----------------------------------------         | ----------------------------------------------           | ----------------------------------------------                                        
-![](useGalaxy.no/useGalaxy.no.256.png)           | ![](useGalaxy.no.inv/useGalaxy.no.inv.256.png)           | ![](useGalaxy.no.flag/useGalaxy.no.flag.256.png)          
+![](useGalaxy.no/useGalaxy.no.256.png)           | ![](useGalaxy.no.inv/useGalaxy.no.dark.256.png)           | ![](useGalaxy.no.flag/useGalaxy.no.flag.256.png)          
 [PNG (Large)](useGalaxy.no/useGalaxy.no.png)     | [PNG (Large)](useGalaxy.no.inv/useGalaxy.no.inv.png)     | [PNG (Large)](useGalaxy.no.flag/useGalaxy.no.flag.png)    
 [PNG 1024px](useGalaxy.no/useGalaxy.no.1024.png) | [PNG 1024px](useGalaxy.no.inv/useGalaxy.no.inv.1024.png) | [PNG 1024px](useGalaxy.no.flag/useGalaxy.no.flag.1024.png)
 [PNG 512px](useGalaxy.no/useGalaxy.no.512.png)   | [PNG 512px](useGalaxy.no.inv/useGalaxy.no.inv.512.png)   | [PNG 512px](useGalaxy.no.flag/useGalaxy.no.flag.512.png)  
@@ -35,7 +35,7 @@ Light Background                                 | Dark Background              
 
 Light Background                               | Dark Background                                        | Flag colors (use only with white background)                                        
 ----------------------------------------       | --------------------------------------------           | --------------------------------------------           
-![](galaxy-small/galaxy-small.256.png)           | ![](galaxy-small.inv/galaxy-small.inv.256.png)           | ![](galaxy-small.flag/galaxy-small.flag.256.png)           
+![](galaxy-small/galaxy-small.256.png)           | ![](galaxy-small.inv/galaxy-small.dark.256.png)           | ![](galaxy-small.flag/galaxy-small.flag.256.png)           
 [PNG (Large)](galaxy-small/galaxy-small.png)     | [PNG (Large)](galaxy-small.inv/galaxy-small.inv.png)     | [PNG (Large)](galaxy-small.flag/galaxy-small.flag.png)     
 [PNG 1024px](galaxy-small/galaxy-small.1024.png) | [PNG 1024px](galaxy-small.inv/galaxy-small.inv.1024.png) | [PNG 1024px](galaxy-small.flag/galaxy-small.flag.1024.png) 
 [PNG 512px](galaxy-small/galaxy-small.512.png)   | [PNG 512px](galaxy-small.inv/galaxy-small.inv.512.png)   | [PNG 512px](galaxy-small.flag/galaxy-small.flag.512.png)   
@@ -50,7 +50,7 @@ Light Background                               | Dark Background                
 
 Light Background                               | Dark Background                                        | Flag colors (use only with white background)             
 ----------------------------------------       | --------------------------------------------           | --------------------------------------------           
-![](galaxy-logo/galaxy-logo.256.png)           | ![](galaxy-logo.inv/galaxy-logo.inv.256.png)           | ![](galaxy-logo.flag/galaxy-logo.flag.256.png)           
+![](galaxy-logo/galaxy-logo.256.png)           | ![](galaxy-logo.inv/galaxy-logo.dark.256.png)           | ![](galaxy-logo.flag/galaxy-logo.flag.256.png)           
 [PNG (Large)](galaxy-logo/galaxy-logo.png)     | [PNG (Large)](galaxy-logo.inv/galaxy-logo.inv.png)     | [PNG (Large)](galaxy-logo.flag/galaxy-logo.flag.png)     
 [PNG 1024px](galaxy-logo/galaxy-logo.1024.png) | [PNG 1024px](galaxy-logo.inv/galaxy-logo.inv.1024.png) | [PNG 1024px](galaxy-logo.flag/galaxy-logo.flag.1024.png) 
 [PNG 512px](galaxy-logo/galaxy-logo.512.png)   | [PNG 512px](galaxy-logo.inv/galaxy-logo.inv.512.png)   | [PNG 512px](galaxy-logo.flag/galaxy-logo.flag.512.png)   
